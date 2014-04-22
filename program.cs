@@ -12,7 +12,6 @@ namespace homeworkgmail2
         {
             //E ovako, ako sam sta zeznuo sorry
 
-            
             // Read in name
             string error, error1, error2, error3, error4;
 
@@ -174,7 +173,6 @@ namespace homeworkgmail2
             }
 
             Console.ReadLine();
-
 
         }
 
