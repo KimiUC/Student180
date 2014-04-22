@@ -26,4 +26,4 @@ VAŽNO: Iznad tog menija, tj ocija, imate traku u kojoj se nalaze ikonice studen
 
 Želimo Vam ugodno korištenje Github-a
 
-By Kemal Šečić
+By Kemal Šečić (grisinny) i Dino Prašo(desmond1303)
