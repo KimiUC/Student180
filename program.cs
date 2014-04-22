@@ -10,7 +10,7 @@ namespace homeworkgmail2
     {
         public static void Main(string[] args)
         {
-            //E ovako, ako sam sta zeznuo sorry
+            //E ovako, ima viška koda i dosta stvari moze biti urađeno puno bolje, ali od mene dosta
 
             // Read in name
             string error, error1, error2, error3, error4;
